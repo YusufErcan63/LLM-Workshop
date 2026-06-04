@@ -1,0 +1,12 @@
+{"refnr": "10000-1001-S", "homeoffice": "nein", "vertragsart": "ausbildung", "erfahrungslevel": "nicht_genannt", "gehalt_min_eur": 1050, "gehalt_zeitraum": "monat", "skills_top3": ["python", "sql", "excel"]}
+{"refnr": "10000-1002-S", "homeoffice": "teilweise", "vertragsart": "festanstellung", "erfahrungslevel": "mid", "gehalt_min_eur": 52000, "gehalt_zeitraum": "jahr", "skills_top3": ["sql", "python", "power_bi"]}
+{"refnr": "10000-1003-S", "homeoffice": "remote", "vertragsart": "festanstellung", "erfahrungslevel": "senior", "gehalt_min_eur": 95000, "gehalt_zeitraum": "jahr", "skills_top3": ["python", "tensorflow", "scikit-learn"]}
+{"refnr": "10000-1004-S", "homeoffice": "teilweise", "vertragsart": "sonstiges", "erfahrungslevel": "junior", "gehalt_min_eur": null, "gehalt_zeitraum": null, "skills_top3": ["python", "pandas", "tableau"]}
+{"refnr": "10000-1005-S", "homeoffice": "nein", "vertragsart": "festanstellung", "erfahrungslevel": "mid", "gehalt_min_eur": 58000, "gehalt_zeitraum": "jahr", "skills_top3": ["tableau", "power_bi", "sql"]}
+{"refnr": "10000-1006-S", "homeoffice": "teilweise", "vertragsart": "praktikum", "erfahrungslevel": "junior", "gehalt_min_eur": 1200, "gehalt_zeitraum": "monat", "skills_top3": ["python", "sql", "jupyter_notebooks"]}
+{"refnr": "10000-1007-S", "homeoffice": "remote", "vertragsart": "festanstellung", "erfahrungslevel": "senior", "gehalt_min_eur": 78000, "gehalt_zeitraum": "jahr", "skills_top3": ["azure", "databricks", "dbt"]}
+{"refnr": "10000-1008-S", "homeoffice": "ja", "vertragsart": "festanstellung", "erfahrungslevel": "junior", "gehalt_min_eur": 38000, "gehalt_zeitraum": "jahr", "skills_top3": ["sql", "excel", "python"]}
+{"refnr": "10000-1009-S", "homeoffice": "teilweise", "vertragsart": "festanstellung", "erfahrungslevel": "egal", "gehalt_min_eur": null, "gehalt_zeitraum": null, "skills_top3": ["python", "r", "sql"]}
+{"refnr": "10000-1010-S", "homeoffice": "nein", "vertragsart": "festanstellung", "erfahrungslevel": "mid", "gehalt_min_eur": 72000, "gehalt_zeitraum": "jahr", "skills_top3": ["sql", "python", "aws"]}
+{"refnr": "10000-1011-S", "homeoffice": "nein", "vertragsart": "ausbildung", "erfahrungslevel": "egal", "gehalt_min_eur": 900, "gehalt_zeitraum": "monat", "skills_top3": ["netzwerktechnik", "sql", "kundenberatung"]}
+{"refnr": "10000-1012-S", "homeoffice": "remote", "vertragsart": "sonstiges", "erfahrungslevel": "egal", "gehalt_min_eur": null, "gehalt_zeitraum": null, "skills_top3": ["python", "sql", "power_bi"]}
