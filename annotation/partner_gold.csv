@@ -1,0 +1,13 @@
+id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
+10000-1001-S,nein,ausbildung,junior,1050,monat,python|sql|excel,Übereinstimmung.
+10000-1002-S,teilweise,festanstellung,mid,52000,jahr,sql|python|power_bi,Übereinstimmung.
+10000-1003-S,remote,festanstellung,senior,95000,jahr,python|tensorflow|aws,Übereinstimmung.
+10000-1004-S,teilweise,werkstudent,junior,,,,Abweichung erfahrungslevel: Werkstudenten = Einsteiger → junior (statt nicht_genannt).
+10000-1005-S,nein,festanstellung,mid,58000,jahr,tableau|sql|etl,Abweichung skills_top3: ETL als methodischer Begriff statt power_bi.
+10000-1006-S,ja,praktikum,nicht_genannt,1200,monat,python|sql|jupyter,Abweichung homeoffice: nach Absprache = ja (statt teilweise – Modus unspezifisch).
+10000-1007-S,remote,festanstellung,senior,78000,jahr,azure|databricks|snowflake,Abweichung skills_top3: Snowflake statt dbt als 3. Tool (beide im Text).
+10000-1008-S,teilweise,festanstellung,junior,38000,jahr,sql|excel|python,Abweichung homeoffice: Modus unspezifisch → teilweise (statt ja).
+10000-1009-S,teilweise,festanstellung,egal,,,,Übereinstimmung.
+10000-1010-S,nein,sonstiges,mid,72000,jahr,sql|etl|python,Abweichung skills_top3: ETL statt aws als 2. Eintrag.
+10000-1011-S,nein,ausbildung,junior,900,monat,sql,,Übereinstimmung.
+10000-1012-S,remote,sonstiges,nicht_genannt,,,,Übereinstimmung.

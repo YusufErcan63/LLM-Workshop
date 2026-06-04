@@ -1,0 +1,13 @@
+id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
+10000-1001-S,nein,ausbildung,junior,1050,monat,python|sql|excel,Ausbildung junior. Tarif. Praesenz explizit.
+10000-1002-S,teilweise,festanstellung,mid,52000,jahr,sql|python|power_bi,Hybrid 2 Tage HO. 2 Jahre = mid.
+10000-1003-S,remote,festanstellung,senior,95000,jahr,python|tensorflow|aws,100% remote. 6 Jahre = senior.
+10000-1004-S,teilweise,werkstudent,nicht_genannt,,,,Werkstudent nicht_genannt. Stundenlohn = null.
+10000-1005-S,nein,festanstellung,mid,58000,jahr,tableau|power_bi|sql,Praesenz. 3-5 Jahre = mid.
+10000-1006-S,teilweise,praktikum,nicht_genannt,1200,monat,python|sql|jupyter,Pflichtpraktikum. HO nach Absprache = teilweise.
+10000-1007-S,remote,festanstellung,senior,78000,jahr,azure|databricks|dbt,Vollstaendig remote. 5 Jahre = senior.
+10000-1008-S,ja,festanstellung,junior,38000,jahr,sql|excel|python,Berufseinsteiger = junior. HO moeglich unspezifisch = ja.
+10000-1009-S,teilweise,festanstellung,egal,,,,Junior bis Senior = egal. Gehalt nach Vereinbarung = null.
+10000-1010-S,nein,sonstiges,mid,72000,jahr,sql|python|aws,Projektvertrag = sonstiges. Praesenz. 3 Jahre = mid.
+10000-1011-S,nein,ausbildung,junior,900,monat,sql,IT-Ausbildung junior. 900 EUR erstes Lehrjahr.
+10000-1012-S,remote,sonstiges,nicht_genannt,,,,Freelance = sonstiges. Vollstaendig remote. Tagessatz = null.

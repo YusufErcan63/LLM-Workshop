@@ -1,0 +1,13 @@
+id,homeoffice,vertragsart,erfahrungslevel,gehalt_min_eur,gehalt_zeitraum,skills_top3,notiz
+10000-1001-S,nein,ausbildung,junior,1050,monat,python|sql|excel,
+10000-1002-S,teilweise,festanstellung,mid,52000,jahr,sql|python|power_bi,
+10000-1003-S,remote,festanstellung,senior,95000,jahr,python|tensorflow|scikit-learn,
+10000-1004-S,teilweise,werkstudent,junior,,,python|pandas|tableau,
+10000-1005-S,nein,festanstellung,mid,58000,jahr,tableau|power_bi|sql,
+10000-1006-S,ja,praktikum,junior,1200,monat,python|sql|jupyter,
+10000-1007-S,remote,festanstellung,senior,78000,jahr,azure|databricks|dbt,
+10000-1008-S,ja,festanstellung,junior,38000,jahr,sql|excel|python,
+10000-1009-S,teilweise,festanstellung,egal,,,python|r|sql,
+10000-1010-S,nein,sonstiges,mid,72000,jahr,sql|python|aws,
+10000-1011-S,nein,ausbildung,junior,900,monat,sql,
+10000-1012-S,remote,sonstiges,nicht_genannt,,,python|sql|power_bi,
