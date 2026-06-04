@@ -2,7 +2,7 @@
 
 **An:** Projektleitung FIDP-Informationsextraktionsprojekt
 **Von** Yusuf
-**Datum:** 2025-05-16
+**Datum:** 2026-06-04
 **Betreff:** Empfehlung zur Annotationsstrategie für 60+ weitere Anzeigen
 
 ---
